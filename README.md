@@ -10,7 +10,7 @@ This is a list of things we did on day 1 of class:
 3. Got confused like 15 times but was interested
 
 > [!IMPORTANT]
-> The first was, although new and a bit confising, is going to get a lot harder in the next couple of weeks.
+> The first week was, although new and a bit confising, is going to get a lot harder in the next couple of weeks.
 
 ## Here are a couple of commands I learned so far
 
